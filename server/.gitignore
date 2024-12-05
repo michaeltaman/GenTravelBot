@@ -1,0 +1,35 @@
+# Исключаем виртуальное окружение
+venv/
+
+# Файлы тестов и отладочные скрипты
+basic_api.py
+basic_api_35_turbo.py
+basic_api_35_turbo_log.py
+get_balance.py
+
+# Локальная база данных
+database.db
+
+# Файл с секретной информацией
+.env
+
+# Кэшированные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Файлы и папки IDE
+.idea/
+*.iml
+.vscode/
+
+# Системные файлы
+.DS_Store
+Thumbs.db

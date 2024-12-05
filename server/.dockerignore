@@ -1,0 +1,12 @@
+venv/
+*.pyc
+*.pyo
+*.log
+__pycache__/
+basic_api.py
+basic_api_35_turbo.py
+basic_api_35_turbo_log.py
+db_tables_check.py
+get_balance.py
+AboutMe.md
+.git/
